@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>За мен</title>
+</head>
+
+<body style="font-family:Arial; text-align:center;">
+
+<h1>За мен</h1>
+
+<a href="index.html">Начало</a> |
+<a href="contact.html">Контакти</a>
+
+<p>Казвам се ... и се уча да правя сайтове.</p>
+
+</body>
+</html>
